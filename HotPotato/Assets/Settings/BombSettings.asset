@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxTimeToBlow: 5
   gyroMaxIntensity: 1
+  bombSafeColor: {r: 0.0504628, g: 0.509434, b: 0.0613983, a: 1}
+  bombDangerColor: {r: 0.509434, g: 0.0504628, b: 0.08253133, a: 1}
